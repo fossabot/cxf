@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FChetan8595%2Fcxf.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FChetan8595%2Fcxf?ref=badge_shield)
+
 Welcome to Apache CXF!
 ======================
 Apache CXF is an open source services framework. CXF helps you build and 
@@ -85,3 +87,7 @@ Thank you for using CXF!
 
 The Apache CXF Team
 http://cxf.apache.org/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FChetan8595%2Fcxf.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FChetan8595%2Fcxf?ref=badge_large)
